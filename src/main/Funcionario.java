@@ -1,3 +1,4 @@
+package main;
 public abstract class Funcionario {
     private static int contFuncionario;
     protected String nome;

@@ -1,3 +1,4 @@
+package main;
 import interfaces.I_PJ;
 
 public class Gerente extends Funcionario implements I_PJ {

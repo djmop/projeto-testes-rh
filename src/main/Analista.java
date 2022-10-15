@@ -1,3 +1,4 @@
+package main;
 import interfaces.I_CLT;
 
 public class Analista extends Funcionario implements I_CLT {

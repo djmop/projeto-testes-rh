@@ -1,4 +1,6 @@
+package main;
 import interfaces.I_PJ;
+
 import java.time.*;
 
 public class Diretor extends Funcionario implements I_PJ {
